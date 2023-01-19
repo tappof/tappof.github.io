@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Tiziano Fogli 
-title: Full Stack System and Network Engineer 
+title: Full Stack (from cable to cloud) System and Network Engineer 
 email: fogli.tiziano@gmail.com
 website: https://tappohapresouna.bruttapie.ga 
 
@@ -15,25 +15,25 @@ website: https://tappohapresouna.bruttapie.ga
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: tappof 
+github_username: tappof 
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+flickr_username: tappof
+#instagram_username: jameswgrant
+linkedin_username: tappof 
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
+#additional_links:
+#- title: itsgoingto.be
+#  icon: fas fa-globe
+#  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
